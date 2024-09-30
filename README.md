@@ -1,2 +1,2 @@
 # Strategies_4_QuantConnect
-Searching alpha with QuantConnect
+Repository containing trading algorithms described in Medium articles 
