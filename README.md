@@ -14,7 +14,7 @@ Feel free to explore the strategies, modify them, and backtest your changes usin
 
 ### Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/algorithmic-trading-strategies.git
+   git clone https://github.com/yourusername/strategies-library.git
    ```
 
 ## License
