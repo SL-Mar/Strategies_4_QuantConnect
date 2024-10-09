@@ -5,7 +5,7 @@ This repository contains a collection of strategies for algorithmic trading, to 
 
 ## Strategies
 1 - Du, Jiang, and Vojtko, Radovan, "Robustness Testing of Country and Asset ETF Momentum Strategies" (March 25, 2023)
-  - Available at SSRN: [https://ssrn.com/abstract=4736699](https://ssrn.com/abstract=4736699) [http://dx.doi.org/10.2139/ssrn.4736699](http://dx.doi.org/10.2139/ssrn.4736699)
+  - Available at SSRN: [https://ssrn.com/abstract=4736699](https://ssrn.com/abstract=4736699)            DOI: [http://dx.doi.org/10.2139/ssrn.4736699](http://dx.doi.org/10.2139/ssrn.4736699)
   - Backtest Results: https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_03efd948ca3691a768eb20d8a9cc2cc3.html
 
 ## How to Use
