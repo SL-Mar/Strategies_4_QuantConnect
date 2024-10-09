@@ -17,4 +17,4 @@ Feel free to explore the strategies, modify them, and backtest your changes usin
    ```
 
 ## License
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+This project is licensed under the MIT license.
