@@ -9,7 +9,7 @@ This repository contains a collection of strategies for algorithmic trading, to 
   - Backtest Results: https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_03efd948ca3691a768eb20d8a9cc2cc3.html
 
 2 - Trend and reversion - S.Laignel (June 2024) 
-  - Backtest results: [https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_4e](https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_4e)
+  - Backtest results: https://www.quantconnect.com/terminal/processCache?request=embedded_backtest_4e5ea44af9f5c1a89b1fd2d6768eeeba.html
 
 ## How to Use
 Feel free to explore the strategies, modify them, and backtest your changes using your preferred backtesting platform. Contributions and enhancements are welcome!
